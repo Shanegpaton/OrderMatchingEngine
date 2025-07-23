@@ -36,20 +36,6 @@ https://github.com/user-attachments/assets/664402a5-e5d7-429e-83d2-2d924c4c74f1
 ---
 
 
-## 🗂️ Project Structure
-
-```
-OrderMatchingEngine/
-├── include/            # Header files (Order.hpp, Matcher.hpp, etc.)
-├── src/                # Implementation (main.cpp, Producer.cpp, etc.)
-├── data/               # Output: matched orders, logs
-├── demo/               # Optional demo video or screenshots
-├── CMakeLists.txt      # CMake config
-└── README.md           # You're here!
-```
-
----
-
 ## ⚙️ Build & Run
 
 ### Prerequisites
