@@ -27,6 +27,15 @@ I wanted to challenge myself with a project that:
 
 ---
 
+## 🎥 Demo
+
+
+https://github.com/user-attachments/assets/664402a5-e5d7-429e-83d2-2d924c4c74f1
+
+
+---
+
+
 ## 🗂️ Project Structure
 
 ```
@@ -65,13 +74,6 @@ make
 ```
 
 Output files will be written to the `/data` directory.
-
----
-
-## 🎥 Demo
-
-
-
 
 ---
 
