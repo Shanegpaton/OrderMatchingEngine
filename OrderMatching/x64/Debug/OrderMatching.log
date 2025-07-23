@@ -1,0 +1,12 @@
+﻿  Consumer.cpp
+C:\Apps\OrderMatching\Consumer.cpp(16,40): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+  Main.cpp
+C:\Apps\OrderMatching\Main.cpp(94,26): warning C4244: 'argument': conversion from '_Rep' to 'int', possible loss of data
+C:\Apps\OrderMatching\Main.cpp(94,26): warning C4244:         with
+C:\Apps\OrderMatching\Main.cpp(94,26): warning C4244:         [
+C:\Apps\OrderMatching\Main.cpp(94,26): warning C4244:             _Rep=__int64
+C:\Apps\OrderMatching\Main.cpp(94,26): warning C4244:         ]
+  OrderPool.cpp
+  Producer.cpp
+  Generating Code...
+  OrderMatching.vcxproj -> C:\Apps\OrderMatching\x64\Debug\OrderMatching.exe
