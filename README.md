@@ -79,10 +79,10 @@ Output files will be written to the `/data` directory.
 
 ## 🧠 Skills Demonstrated
 
-- ✅ C++17 Concurrency — threads, mutexes, condition variables
-- ✅ Systems Programming — memory handling, performance bottlenecks
-- ✅ Data Structures — queues, priority logic
-- ✅ Software Design — modular classes, clean build system
-- ✅ Debugging & Testing — iterative performance improvements
+- C++17 Concurrency — threads, mutexes, condition variables
+- Systems Programming — memory handling, performance bottlenecks
+- Data Structures — queues, priority logic
+- Software Design — modular classes, clean build system
+- Debugging & Testing — iterative performance improvements
 
 ---
