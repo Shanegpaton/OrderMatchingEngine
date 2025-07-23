@@ -39,7 +39,7 @@ OrderMatchingEngine/
 
 ---
 
-## ⚙️ Build & Run
+##  Build & Run
 
 ### Prerequisites
 
