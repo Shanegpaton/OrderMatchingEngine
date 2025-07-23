@@ -1,12 +1,12 @@
-# Order Matching Engine
+# ⚡ Order Matching Engine
 
 A high-performance, multithreaded **order matching engine** built in modern C++. This project simulates the core logic behind a financial exchange, processing real-time buy/sell orders with efficient batching and thread synchronization.
 
-Built as a systems-level project to demonstrate my ability to write concurrent, performant, and testable C++ code — ideal for backend infrastructure, finance systems, or real-time data processing roles.
+> Built as a systems-level project to demonstrate my ability to write concurrent, performant, and testable C++ code — ideal for backend infrastructure, finance systems, or real-time data processing roles.
 
 ---
 
-## Why I Built This
+## 💡 Why I Built This
 
 I wanted to challenge myself with a project that:
 - Applies **low-level systems programming** techniques
@@ -16,7 +16,7 @@ I wanted to challenge myself with a project that:
 
 ---
 
-## Features
+## 🧠 Features
 
 - **Multithreaded architecture** using `std::thread`, `mutex`, and `condition_variable`
 - **Producer-consumer pipeline** to simulate order inflow
@@ -27,19 +27,21 @@ I wanted to challenge myself with a project that:
 
 ---
 
-## Project Structure
+## 🗂️ Project Structure
 
+```
 OrderMatchingEngine/
-├── include/ # Header files (Order.hpp, Matcher.hpp, etc.)
-├── src/ # Implementation (main.cpp, Producer.cpp, etc.)
-├── data/ # Output: matched orders, logs
-├── demo/ # Optional demo video or screenshots
-├── CMakeLists.txt # CMake config
-└── README.md # You're here!
+├── include/            # Header files (Order.hpp, Matcher.hpp, etc.)
+├── src/                # Implementation (main.cpp, Producer.cpp, etc.)
+├── data/               # Output: matched orders, logs
+├── demo/               # Optional demo video or screenshots
+├── CMakeLists.txt      # CMake config
+└── README.md           # You're here!
+```
 
 ---
 
-##  Build & Run
+## ⚙️ Build & Run
 
 ### Prerequisites
 
@@ -54,12 +56,31 @@ cd OrderMatchingEngine
 mkdir build && cd build
 cmake ..
 make
+```
+
+### Run
+
+```bash
+./OrderMatchingEngine
+```
+
+Output files will be written to the `/data` directory.
 
 ---
 
-##Run
-
-./OrderMatchingEngine
+## 🎥 Demo
 
 
 
+
+---
+
+## 🧠 Skills Demonstrated
+
+- ✅ C++17 Concurrency — threads, mutexes, condition variables
+- ✅ Systems Programming — memory handling, performance bottlenecks
+- ✅ Data Structures — queues, priority logic
+- ✅ Software Design — modular classes, clean build system
+- ✅ Debugging & Testing — iterative performance improvements
+
+---
